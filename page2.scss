@@ -1,0 +1,29 @@
+$primaryFontSize: 30px;
+div {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.div1 {
+    border: green 10px dashed;
+    font-size: $primaryFontSize;
+    font-weight:thick;
+}
+
+.div2 {
+    margin: 15px;
+    border: green 2px dotted;
+    font-size: $primaryFontSize;
+    font-weight:thick;
+}
+
+.h3 {
+    border: gray 20px inset;
+    width:97.5%;
+    font-size: 50px;
+}
+
+.h4 {
+    border: yellow 5px solid;
+    font-size: 50px;
+    font-size: 50px;
+}
